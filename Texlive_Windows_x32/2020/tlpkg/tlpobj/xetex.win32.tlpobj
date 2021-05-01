@@ -1,0 +1,24 @@
+name xetex.win32
+category TLCore
+revision 53994
+shortdesc win32 files of xetex
+containersize 9436936
+containerchecksum bd474df98c6b11e7e8c04ba93dcdec91d0cbf6e56495aa7e3fa950a7d26c8ccb8ea287bcd34e1721b1d6a33f95c786ff94fb135da5d08481478029d8c8c87f17
+binfiles arch=win32 size=10113
+ bin/win32/fc-cache.exe
+ bin/win32/fc-cat.exe
+ bin/win32/fc-list.exe
+ bin/win32/fc-match.exe
+ bin/win32/fc-pattern.exe
+ bin/win32/fc-query.exe
+ bin/win32/fc-scan.exe
+ bin/win32/fc-validate.exe
+ bin/win32/icudt65.dll
+ bin/win32/teckit_compile.exe
+ bin/win32/xelatex.exe
+ bin/win32/xetex.dll
+ bin/win32/xetex.exe
+ tlpkg/tlpostcode/xetex/cache/readme.txt
+ tlpkg/tlpostcode/xetex/conf/conf.d/51-local.conf
+ tlpkg/tlpostcode/xetex/conf/fonts.conf
+ tlpkg/tlpostcode/xetex/conf/fonts.dtd
